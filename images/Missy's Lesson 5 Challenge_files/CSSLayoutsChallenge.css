@@ -1,0 +1,87 @@
+nav {
+	padding-top:10px;
+	padding-right:20px;
+	position:relative;
+	background-color: lightgrey;
+	height:30px;
+	text-align:right;
+}
+
+.logotext {
+	position:absolute;
+	left:10px;
+	font-weight:bold;
+}
+
+.links {
+	color:purple;
+}
+
+main {
+	padding-top: 40px;
+	padding-left: 80px;
+}
+
+label {
+	font-size: 14px;
+	font-weight:bold;
+}
+
+a {
+	padding-right: 10px;
+}
+
+input {
+	border: 1px lightgrey solid;
+	border-radius: 3px ;
+	padding-left: 3px;
+	height:25px;
+}
+
+img {
+	height:27px;
+	width:27px;
+	border:1px lightgrey solid;
+	border-radius:3px;
+	vertical-align: bottom;
+}
+
+span {
+	display:inline-block;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.box1, .box2, .box3 {
+	border: 1pt lightgrey solid;
+	margin-top:25px;
+}
+
+.box1 {
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.box3 {
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+
+.joblisting {
+	margin-top: 25px;
+}
+
+.jobpostdate {
+	color:gray;	
+	padding-left:0;
+
+}
+
+.jobdesc {
+	color:blue;
+	font-weight:bold;
+}
+
+.jobloc {
+	color:gray;
+} 
